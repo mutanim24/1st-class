@@ -1,0 +1,36 @@
+/* h1{
+    color: red;
+    height: 100px;
+    background-color: aqua;
+    width: 1000px;
+    text-align: center;
+    font-weight: 700px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#cici{
+    color: blue;
+    background-color: black;
+}
+.friend{
+    background-color: blueviolet;
+}
+h1 span{
+    color: aquamarine;
+}
+
+.tanim{
+    background-color: palevioletred;
+    border: 3px solid black;
+    border-radius: 20px;
+    /* margin: 3px; */
+    /* text-align: justify; */
+    /* padding: 20px; */
+    /* width: 30%;
+    display: inline-block; */
+} */
+
+
+.banner-section{
+    background-image:url(./image/ecommerce\ website.jpg) ;
+    text-align: center;
+}
