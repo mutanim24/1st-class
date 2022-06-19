@@ -34,3 +34,7 @@ h1 span{
     background-image:url(./image/ecommerce\ website.jpg) ;
     text-align: center;
 }
+a{
+    height: 20px;
+    background-color: red;
+}
